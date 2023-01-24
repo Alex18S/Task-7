@@ -1,0 +1,28 @@
+.name{
+    color: #3e5a62;
+}
+.mein{
+    background-color: #3498DB;
+}
+.info{
+    background-color: #8E44AD;
+}
+.company{
+    background-color: #16A085;
+}
+
+.links{
+background-color:white;  
+border: 2px solid white;
+}
+
+.links a{
+text-decoration: none;
+}
+
+.links img{
+width: 50px;
+height: 50px;
+object-fit: cover;
+margin: 0 2px;
+}
